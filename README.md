@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ebehdeborah
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning product design 
+- 👀 I’m interested in user experience design
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ebehdeborahidee@gmail.com
 <!---
